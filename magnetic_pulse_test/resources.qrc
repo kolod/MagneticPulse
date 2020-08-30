@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>my_ru.qm</file>
+        <file>my_uk.qm</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>led-red.svg</file>
+        <file>led-green.svg</file>
+        <file>led-off.svg</file>
+    </qresource>
+</RCC>
